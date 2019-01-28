@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1548690591 source:/home/ahmedhelal/dev/cplusplus-class-and-files/main.cpp
+	<iostream>
+	"MyHelloClass.h"
+	"MyWorldClass.h"
+
+1548690246 /home/ahmedhelal/dev/cplusplus-class-and-files/MyHelloClass.h
+
+1548690263 /home/ahmedhelal/dev/cplusplus-class-and-files/MyWorldClass.h
+
+1548690558 source:/home/ahmedhelal/dev/cplusplus-class-and-files/MyWorldClass.cpp
+	"MyWorldClass.h"
+	<iostream>
+
